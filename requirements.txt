@@ -1,0 +1,6 @@
+pdfplumber
+pandas
+sqlalchemy
+openai
+python-dotenv
+PyMuPDF
